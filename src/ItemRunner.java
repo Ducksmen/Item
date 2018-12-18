@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class ItemRunner {
     public static void main(String[] args)
     {
-        System.out.println("Welcome to the vehicle price calculator (including tax), please enter the required information.");
+        System.out.println("Welcome to the vehicle price calculator (including tax).");
         System.out.println("Before that, here are some examples of some cars using NY tax.");
         System.out.println("----------------------------------------------------");
         System.out.println("Lamborghini");
