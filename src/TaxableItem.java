@@ -11,6 +11,6 @@ public abstract class TaxableItem {
 
     public double purchasePrice()
     {
-
+        return (1 + taxRate) * getListPrice();
     }
 }
